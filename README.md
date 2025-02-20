@@ -1,6 +1,6 @@
 # Final Project Bootcamp Data Science Rakamin Academy - Batch 51
 
-|     | **Tri Hita Kirana** |
+|     | **Tri Hita Karana** |
 | --- | ------------------- |
 | 1   | Azkaf Nur           |
 | 2   | Dicky Alviandi      |
@@ -43,3 +43,5 @@ pip install Matplotlib
 ```
 pip install scikit-learn
 ```
+
+-Disaat semua extension telah berhasil didapatkan, maka file akan bisa dijalankan secara baik.
