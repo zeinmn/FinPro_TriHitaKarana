@@ -17,8 +17,9 @@ Pada dataset yang dipilih ini terdapat perolehan data yang sebesar 252.000 baris
 ## Running Program
 
 Dalam tahapan ini, hal yang diperlukan untuk dapat menjalankan program terdiri atas :
--Membutuhkan aplikasi bernama **Jupyter Notebook** baik versi dalam [web](https://colab.research.google.com/#) ataupun [desktop](https://docs.anaconda.com/miniconda/install/) yang terhubung melalui pada miniconda.
--Setelah berhasil memiliki aplikasi tersebut, dibutuhkan semacam extension atau pendukung lain yang dimana hal ini sangat berpengaruh untuk dapat menjalankan program ini. Extension ini antara lain :
+
+1. Membutuhkan aplikasi bernama **Jupyter Notebook** baik versi dalam [web](https://colab.research.google.com/#) ataupun [desktop](https://docs.anaconda.com/miniconda/install/) yang terhubung melalui pada miniconda.
+2. Setelah berhasil memiliki aplikasi tersebut, dibutuhkan semacam extension atau pendukung lain yang dimana hal ini sangat berpengaruh untuk dapat menjalankan program ini. Extension ini antara lain :
 
 ```
 pip install pandas
@@ -44,4 +45,4 @@ pip install Matplotlib
 pip install scikit-learn
 ```
 
--Disaat semua extension telah berhasil didapatkan, maka file akan bisa dijalankan secara baik.
+3.-Disaat semua extension telah berhasil didapatkan, maka file akan bisa dijalankan secara baik.
