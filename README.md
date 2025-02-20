@@ -45,4 +45,4 @@ pip install Matplotlib
 pip install scikit-learn
 ```
 
-3.-Disaat semua extension telah berhasil didapatkan, maka file akan bisa dijalankan secara baik.
+3. Disaat semua extension telah berhasil didapatkan, maka file akan bisa dijalankan secara baik.
